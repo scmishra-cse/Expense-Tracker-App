@@ -15,16 +15,6 @@ Start with this app to inculcate a systematic approach in your life.
   
 # Some ScreenShots:
 
-
-
-<img height=500 width=275 src="https://github.com/shashankchandak/Expense-Manager/blob/master/Sreenshots/1.png"
-/><img height=500 width=275 src="https://github.com/shashankchandak/Expense-Manager/blob/master/Sreenshots/2.png" hspace=24
-/><img height=500 width=275 src="https://github.com/shashankchandak/Expense-Manager/blob/master/Sreenshots/3.png"
-/>
 <br>
 <br>
 <br>
-<img height=500 width=275 src="https://github.com/shashankchandak/Expense-Manager/blob/master/Sreenshots/4.png"
-/><img height=500 width=275 src="https://github.com/shashankchandak/Expense-Manager/blob/master/Sreenshots/5.png" hspace=24
-/><img height=500 width=275 src="https://github.com/shashankchandak/Expense-Manager/blob/master/Sreenshots/6.png"
-/>
