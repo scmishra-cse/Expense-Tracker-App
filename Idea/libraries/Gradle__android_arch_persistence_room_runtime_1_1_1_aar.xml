@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.persistence.room:runtime:1.1.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/expense-tracker-main/gradle/caches/transforms-2/files-2.1/e7095a1b134d019ded93691bf33c5eda/runtime-1.1.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/expense-tracker-main/gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1fb3e9b2f9b6d778e3f5c3eb951e30a4/res" />
+      <root url="file://$USER_HOME$/Downloads/expense-tracker-main/gradle/caches/transforms-2/files-2.1/e7095a1b134d019ded93691bf33c5eda/runtime-1.1.1/res" />
+      <root url="jar://$USER_HOME$/Downloads/expense-tracker-main/gradle/caches/transforms-2/files-2.1/e7095a1b134d019ded93691bf33c5eda/runtime-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/expense-tracker-main/gradle/caches/transforms-2/files-2.1/e7095a1b134d019ded93691bf33c5eda/runtime-1.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/expense-tracker-main/gradle/caches/modules-2/files-2.1/android.arch.persistence.room/runtime/1.1.1/ba5dd1320b8a0e9a5beb32eaa163a49abbe83e02/runtime-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
