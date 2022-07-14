@@ -12,8 +12,49 @@ Features:
 P.S.  We don't save your location( or any other metadata) ; this app is for your convenience only.
 
 Start with this app to inculcate a systematic approach in your life.
+
+# Project Setup
+
+
+  <img height=500 width=1200 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(816).png"/>
   
-# Some ScreenShots:
+### Copy the Link of Project
+
+```
+https://github.com/scmishra-cse/Expense-Tracker-App.git
+```
+
+### Open Android Studio 
+
+<img height=500 width=1200 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(800).png"/>
+
+- Choose Get from Version Control Option
+
+<img height=500 width=800 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(801).png"/>
+
+- Choose git from drop-down menu
+
+<img height=500 width=800 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(802).png"/>
+
+- Paste Project link
+
+- Click `Clone` and Wait for some time... it will download all `gradle` files and `dependencies` of the project.
+
+<img height=500 width=1000 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(803).png"/>
+
+- Click on run icon, You're all set to run the application.
+
+<img height=500 width=1000 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(806).png"/>
+
+### Debugging 
+
+- If you are running into an error like not seeing the application in Virtual Device just go to AMD manger and `Wipe Data` of your Virtual device.
+
+<img height=500 width=800 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(804).png"/>
+
+# Some ScreenShots of Application:
+
+
 
 <br>
 <br>
