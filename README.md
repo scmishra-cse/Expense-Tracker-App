@@ -16,7 +16,7 @@ Start with this app to inculcate a systematic approach in your life.
 # Project Setup
 
 
-  <img height=400 width=1200 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(816).png"/>
+  <img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(816).png"/>
   
 ### Copy the Link of Project
 
