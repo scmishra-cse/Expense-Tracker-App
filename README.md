@@ -26,51 +26,43 @@ https://github.com/scmishra-cse/Expense-Tracker-App.git
 
 ### Open Android Studio 
 
-<img height=500 width=1200 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(800).png"/>
+<img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(800).png"/>
 
 - Choose Get from Version Control Option
 
-<img height=500 width=800 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(801).png"/>
+<img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(801).png"/>
 
 - Choose git from drop-down menu
 
-<img height=500 width=800 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(802).png"/>
+<img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(802).png"/>
 
 - Paste Project link
 
 - Click `Clone` and Wait for some time... it will download all `gradle` files and `dependencies` of the project.
 
-<img height=500 width=1000 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(803).png"/>
+<img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(803).png"/>
 
 - Click on run icon, You're all set to run the application.
 
-<img height=500 width=1000 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(806).png"/>
+<img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(806).png"/>
 
 ### Debugging 
 
 - If you are running into an error like not seeing the application in Virtual Device just go to AMD manger and `Wipe Data` of your Virtual device.
 
-<img height=500 width=800 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(804).png"/>
+<img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(804).png"/>
 
 # Some ScreenShots of Application:
 
-<img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(807).png"
-/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(808).png" hspace=24
-/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(809).png"
-/>
-<br>
-<br>
-<br>
-<img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(810).png"
-/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(811).png" hspace=24
-/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(812).png"
-/>
-<br>
-<br>
-<br>
-<img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(813).png"
-/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(814).png" hspace=24
-/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(815).png"
+  <img height=550 width=300  src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(807).png"
+/><img height=550 width=300  src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(808).png" hspace=24
+/><img height=550 width=300  src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(809).png"
+/><img height=550 width=300  src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(810).png" hspace=24
+/><img height=550 width=300  src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(811).png" 
+/><img height=550 width=300  src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(812).png" hspace=24
+/><img height=550 width=300  src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(813).png"
+/><img height=550 width=300  src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(814).png" hspace=24
+/><img height=550 width=300  src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(815).png"
 />
 
 
