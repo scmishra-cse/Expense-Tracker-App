@@ -28,7 +28,7 @@ https://github.com/scmishra-cse/Expense-Tracker-App.git
 
 <img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(800).png"/>
 
-- Choose Get from Version Control Option
+- Choose `Git from Version Control` Option
 
 <img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(801).png"/>
 
