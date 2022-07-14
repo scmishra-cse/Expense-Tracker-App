@@ -16,7 +16,7 @@ Start with this app to inculcate a systematic approach in your life.
 # Project Setup
 
 
-  <img height=500 width=1200 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(816).png"/>
+  <img height=400 width=1200 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(816).png"/>
   
 ### Copy the Link of Project
 
@@ -54,8 +54,23 @@ https://github.com/scmishra-cse/Expense-Tracker-App.git
 
 # Some ScreenShots of Application:
 
+<img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(807).png"
+/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(808).png" hspace=24
+/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(809).png"
+/>
+<br>
+<br>
+<br>
+<img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(810).png"
+/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(811).png" hspace=24
+/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(812).png"
+/>
+<br>
+<br>
+<br>
+<img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(813).png"
+/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(814).png" hspace=24
+/><img height=500 width=275 src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(815).png"
+/>
 
 
-<br>
-<br>
-<br>
